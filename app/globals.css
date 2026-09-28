@@ -4,7 +4,9 @@
   --background: #ffffff;
   --foreground: #171717;
 }
-
+input, select, textarea {
+  color: #171717;
+}
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
